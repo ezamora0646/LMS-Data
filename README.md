@@ -35,18 +35,9 @@ Below is the data field summary:
 
 ## Insights Deep Dive
 
-###
+### Training Outcomes & Ratings
 
-#### 
-
-#### 
-
-<p align="center">
-  <img src="">
-  <img src="">
-</p>
-
-
+#### Scores are not predicted by a single Factor
 
 #### 
 
@@ -59,7 +50,16 @@ Below is the data field summary:
 
 #### 
 
-#### 
+<p align="center">
+  <img src="">
+  <img src="">
+</p>
+
+
+
+### Vendor Saturation 
+
+#### Reducing Vendors will Optimize Spending & Training Outcomes
 
 <p align="center">
   <img src= "">
@@ -79,11 +79,10 @@ Below is the data field summary:
   <img src="">
 </p>
 
-Conflict was also measured at the end of the year, so trends depict a one year period. Conflict also decreases overtime but students on average were already at the low end of conflict across schools, as this measure is on a 1-5 scale. 
 
-EDA revealed that conflict with teacher was moderately correlated (-0.47 & -0.61) with students' ATL scores. Both Kindergarten and First grade models confirm this finding, revealing that students experiencing more conflict were **63%–73% less likely** to receive a ‘High’ ATL rating. Confidence intervals for both of the estimates indicate that the true population value would also reflect a decreased likelihood of receiving a "High" ATL rating.
+### Vendor's Sales by Location
 
-#### Attentional Focus is a key behavioral driver of ATL — and its influence remains strong over time.
+#### Vendor Drives Sites' Outcomes
 
 <p align="center">
   <img src= "">
