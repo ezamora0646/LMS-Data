@@ -40,7 +40,7 @@ Below is the data field summary:
 #### Training outcomes are not predicted by a single Factor
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/user-attachments/assets/fc73e042-434d-42b2-bf4c-9ef570f24397">
   <img src="">
 </p>
 
@@ -68,7 +68,6 @@ Spending more does not correlate strongly with better outcomes. Correlations bet
 
 <p align="center">
   <img src= "https://github.com/user-attachments/assets/c1952622-c219-4152-8d26-4644a7d7a627">
-  
   <img src="https://github.com/user-attachments/assets/a670bb44-d7c7-4b9d-b09b-500c565cf600">
 </p>
 
