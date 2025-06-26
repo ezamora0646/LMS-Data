@@ -53,14 +53,9 @@ Outcomes such as Assessment Score, Engagement Score, Training Feedback Rating, a
 
 Spending more does not correlate strongly with better outcomes. Correlations between cost and assessment score (~0.20) and engagement (~0.05) are weak. This suggests that vendor selection should be guided by cost-effectiveness, not brand familiarity or pricing.
 
-#### 
-
-<p align="center">
-  <img src="">
-  <img src="">
+<p>
+  <br>
 </p>
-
-
 
 ### Vendor Saturation 
 
