@@ -44,12 +44,14 @@ Below is the data field summary:
   <img src="">
 </p>
 
-Business metrics such as Assessment Score, Engagement Score, Training Feedback Rating, and Cost per Learner vary substantially across vendors. While some vendors demonstrate a favorable cost-performance balance, others charge more without delivering better outcomes.
+Outcomes such as Assessment Score, Engagement Score, Training Feedback Rating, and Cost per Learner vary substantially across vendors. While some vendors demonstrate a favorable *cost-performance balance*, **others charge more without delivering** better outcomes.
 
-* Skillsoft and BizLibrary emerge as cost-efficient vendors, with lower-than-average costs ($223.12 and $218.98, respectively) and above-average engagement (4.9 and 6.2).
-* Ninjio and Traliant, two of the most used vendors, have costs above the overall mean ($241.09 and $297.62) but do not lead in any performance metric.
-* LinkedIn Learning has one of the highest costs per learner ($325.17), yet its assessment scores and engagement are below the grand average.
+* Skillsoft and BizLibrary emerge as **cost-efficient** vendors, with *lower-than-average costs* ($223.12 and $218.98, respectively) and **above-average engagement** (4.9 and 6.2).
+* Ninjio and Traliant, two of the most used vendors, have *costs above the overall mean* ($241.09 and $297.62) but *do not lead in any performance metric.*
+* LinkedIn Learning has one of the **highest costs per learner ($325.17)**, yet its assessment scores and engagement are **below the grand average.**
 
+
+Spending more does not correlate strongly with better outcomes. Correlations between cost and assessment score (~0.20) and engagement (~0.05) are weak. This suggests that vendor selection should be guided by cost-effectiveness, not brand familiarity or pricing.
 
 #### 
 
@@ -65,11 +67,19 @@ Business metrics such as Assessment Score, Engagement Score, Training Feedback R
 #### Reducing Vendors will Optimize Spending & Training Outcomes
 
 <p align="center">
-  <img src= "">
+  <img src= "https://github.com/user-attachments/assets/c1952622-c219-4152-8d26-4644a7d7a627">
   
-  <img src="">
+  <img src="https://github.com/user-attachments/assets/a670bb44-d7c7-4b9d-b09b-500c565cf600">
 </p>
 
+Over a two-year span, Traliant and Ninjio accounted for a combined 37% of all assignments. These vendors also operate across the most locations and quarters.
+However, deeper analysis reveals that this dominance is largely due to their coverage of mandatory training topics rather than superior training quality.
+
+* Ninjio leads in Cyber Security, while Traliant dominates Harassment Prevention. These two areas collectively account for the majority of their assignments.
+* Both vendors are offered in 5+ locations and are active across multiple quarters, particularly **Q2 and Q3, where overall sales peak.**
+* Despite their prevalence, neither vendor excels in key training outcomes: their average engagement scores hover at or below the dataset mean, and feedback ratings remain neutral (2.9–3.1 out of 5).
+
+Current vendor saturation reflects compliance needs, not strategic effectiveness. A strategically curated vendor selection, focused on cost-effectiveness and content quality, could enhance both outcomes and ROI.
 
 #### 
 
