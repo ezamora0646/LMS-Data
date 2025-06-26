@@ -37,15 +37,18 @@ Below is the data field summary:
 
 ### Training Outcomes & Ratings
 
-#### Scores are not predicted by a single Factor
-
-#### 
+#### Training outcomes are not predicted by a single Factor
 
 <p align="center">
   <img src="">
   <img src="">
 </p>
 
+Business metrics such as Assessment Score, Engagement Score, Training Feedback Rating, and Cost per Learner vary substantially across vendors. While some vendors demonstrate a favorable cost-performance balance, others charge more without delivering better outcomes.
+
+* Skillsoft and BizLibrary emerge as cost-efficient vendors, with lower-than-average costs ($223.12 and $218.98, respectively) and above-average engagement (4.9 and 6.2).
+* Ninjio and Traliant, two of the most used vendors, have costs above the overall mean ($241.09 and $297.62) but do not lead in any performance metric.
+* LinkedIn Learning has one of the highest costs per learner ($325.17), yet its assessment scores and engagement are below the grand average.
 
 
 #### 
