@@ -41,7 +41,7 @@ Below is the data field summary:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fc73e042-434d-42b2-bf4c-9ef570f24397">
-  <img src="">
+  <img src="https://github.com/user-attachments/assets/1256b51c-df05-482c-9af9-db99cbde91c5">
 </p>
 
 Outcomes such as Assessment Score, Engagement Score, Training Feedback Rating, and Cost per Learner vary substantially across vendors. While some vendors demonstrate a favorable *cost-performance balance*, **others charge more without delivering** better outcomes.
