@@ -31,9 +31,9 @@ Below is the data field summary:
 
 
 ## Executive Summary
-* Vendor impact varies widely: Higher cost does not consistently translate to better performance.  For instance, BizLibrary and Skillsoft deliver *above-average* assessment scores (78.0 and 81.2) and engagement scores (6.2 and 4.9) at **costs 20% below the average** ($218.98 and $223.12 vs. $278.77). In contrast, Coursera and Go1, with **average costs over $300** per learner, deliver *lower than average* assessment scores (69.7 and 72.5) and feedback ratings (3.4 and 1.6).
+* **Vendor impact varies widely:** Higher cost does not consistently translate to better performance.  For instance, BizLibrary and Skillsoft deliver *above-average* assessment scores (78.0 and 81.2) and engagement scores (6.2 and 4.9) at **costs 20% below the average** ($218.98 and $223.12 vs. $278.77). In contrast, Coursera and Go1, with **average costs over $300** per learner, deliver *lower than average* assessment scores (69.7 and 72.5) and feedback ratings (3.4 and 1.6).
 
-* Saturation does not equal effectiveness: Two vendors—Traliant and Ninjio—account for 37% of all assignments, active across 5+ locations and multiple quarters. However, their engagement scores (4.9 and 5.5) and feedback ratings (3.1 and 2.9) sit near or below the overall average, indicating benefit from continued performance tracking to motivate their continued use.
+* **Saturation does not equal effectiveness:** Two vendors—Traliant and Ninjio—account for *37% of all assignments*, active across 5+ locations and multiple quarters. However, their engagement scores (4.9 and 5.5) and feedback ratings (3.1 and 2.9) sit near the overall average, indicating benefit from performance tracking to motivate their continued use.
   
 * **Location outcomes are vendor- and delivery-dependent:** Reno, which balances hybrid, online, and instructor-led formats, records the *highest engagement (5.4) and feedback ratings (4.0).* It sources from vendors like Traliant and BizLibrary, whose training programs span key content areas. In contrast, San Leandro, relying heavily on BizLibrary and online formats, sees *engagement dip to 3.8 and feedback fall to 2.2.*
 
@@ -74,7 +74,7 @@ Spending more does not correlate strongly with better outcomes. Correlations bet
   <img src="https://github.com/user-attachments/assets/a670bb44-d7c7-4b9d-b09b-500c565cf600">
 </p>
 
-While Traliant and Ninjio account for a combined 37% of all assignments, this reflects their critical role in delivering mandatory content (e.g., harassment prevention and cyber security) across multiple sites. These vendors also operate across the most locations and quarters.
+While Traliant and Ninjio account for a combined **37% of all assignments**, this reflects their critical role in delivering mandatory content (e.g., harassment prevention and cyber security) across multiple sites. These vendors also operate across the most locations and quarters.
 Their performance is consistent with dataset averages, and their breadth of delivery formats—especially hybrid—supports a range of training needs. However, their continued inclusion should be justified through ongoing outcome monitoring.”
 
 * Ninjio leads in Cyber Security, while Traliant dominates Harassment Prevention. These two areas collectively account for the majority of their assignments.
